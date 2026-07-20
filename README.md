@@ -80,6 +80,7 @@ Con experiencia en todo el ciclo de vida de lanzamiento móvil: diseño de inter
 Scalable Flutter social app built with Clean Architecture, integrated with a NestJS backend and RabbitMQ for real-time and asynchronous communication. Deployed on DigitalOcean with seamless data sync across iOS and Android.
 
 `Flutter` `Dart` `NestJS` `RabbitMQ` `DigitalOcean`
+🔒 *Private repo — company-owned project*
 
 </td>
 <td width="50%" valign="top">
@@ -88,6 +89,7 @@ Scalable Flutter social app built with Clean Architecture, integrated with a Nes
 Patient-centric Flutter + Firebase application for Lab CG: service quotations, appointment scheduling, and medical-result access.
 
 `Flutter` `Firebase` `UX/UI Design`
+🔒 *Private repo — client project*
 
 </td>
 </tr>
@@ -111,7 +113,7 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 </tr>
 </table>
 
-> 🔗 *Add live/App Store/repo links here as they become public.*
+> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Alerta Bosque, Fuel Consumption Estimator).*
 
 ---
 
