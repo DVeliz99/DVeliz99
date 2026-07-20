@@ -52,7 +52,7 @@ Con experiencia en todo el ciclo de vida de lanzamiento móvil: diseño de inter
 
 - 📱 **Cross-platform mobile development** — Flutter & Dart, Clean Architecture, SOLID principles
 - 🎨 **UI/UX implementation** — Figma design-to-code translation, responsive & adaptive interfaces, design-system consistency
-- 🔗 **Backend integration** — REST APIs, event-driven architecture (RabbitMQ), NestJS, OAuth 2.0
+- 🔗 **Backend integration** — REST APIs, OAuth 2.0, webhooks, data synchronization
 - 🚀 **Release engineering** — App Store Connect, Google Play Console, mobile CI/CD, code signing
 
 </details>
@@ -63,7 +63,7 @@ Con experiencia en todo el ciclo de vida de lanzamiento móvil: diseño de inter
 
 - 📱 **Desarrollo móvil multiplataforma** — Flutter & Dart, Clean Architecture, principios SOLID
 - 🎨 **Implementación UI/UX** — traducción de diseño a código en Figma, interfaces responsivas y adaptativas, consistencia de sistemas de diseño
-- 🔗 **Integración con backend** — REST APIs, arquitectura orientada a eventos (RabbitMQ), NestJS, OAuth 2.0
+- 🔗 **Integración con backend** — REST APIs, OAuth 2.0, webhooks, sincronización de datos
 - 🚀 **Ingeniería de releases** — App Store Connect, Google Play Console, CI/CD móvil, firma de código
 
 </details>
@@ -77,9 +77,9 @@ Con experiencia en todo el ciclo de vida de lanzamiento móvil: diseño de inter
 <td width="50%" valign="top">
 
 ### 📲 WBC Social Platform
-Scalable Flutter social app built with Clean Architecture, integrated with a NestJS backend and RabbitMQ for real-time and asynchronous communication. Deployed on DigitalOcean with seamless data sync across iOS and Android.
+Scalable Flutter social app built with Clean Architecture, deployed on DigitalOcean with seamless data sync across iOS and Android.
 
-`Flutter` `Dart` `NestJS` `RabbitMQ` `DigitalOcean`
+`Flutter` `Dart` `Clean Architecture` `DigitalOcean`
 🔒 *Private repo — company-owned project*
 
 </td>
@@ -142,10 +142,8 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 
 **Backend & Integration**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases**
 
