@@ -89,7 +89,6 @@ Scalable Flutter social app built with Clean Architecture, integrated with a Nes
 Patient-centric Flutter + Firebase application for Lab CG: service quotations, appointment scheduling, and medical-result access.
 
 `Flutter` `Firebase` `UX/UI Design`
-🔒 *Private repo — client project*
 
 </td>
 </tr>
@@ -113,7 +112,7 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 </tr>
 </table>
 
-> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Alerta Bosque, Fuel Consumption Estimator).*
+> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Clinical Services Management, Alerta Bosque, Fuel Consumption Estimator).*
 
 ---
 
