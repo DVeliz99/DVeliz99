@@ -99,6 +99,7 @@ Patient-centric Flutter + Firebase application for Lab CG: service quotations, a
 Cross-platform Ionic/Vue application for forest-alert management, integrated with Supabase for real-time data and geospatial processing (PostgreSQL/PostGIS).
 
 `Ionic` `Vue.js` `Supabase` `PostGIS`
+🔒 *Private repo — company/government project*
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +113,7 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 </tr>
 </table>
 
-> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Clinical Services Management, Alerta Bosque, Fuel Consumption Estimator).*
+> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Clinical Services Management, Fuel Consumption Estimator).*
 
 ---
 
