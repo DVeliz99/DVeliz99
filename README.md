@@ -113,8 +113,6 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 </tr>
 </table>
 
-> 🔗 *Add live/repo links here for projects you're able to make public (e.g. Clinical Services Management, Fuel Consumption Estimator).*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -163,15 +161,6 @@ Machine-learning model estimating trip-level fuel consumption from vehicle effic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DVeliz99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVeliz99&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
